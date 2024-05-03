@@ -1,7 +1,7 @@
 body {
     padding: 10%;
     font-size:2rem;
-    color: red;
+    color: rgb(233, 170, 70);
 }
 
 input, button{
@@ -12,10 +12,22 @@ a:visited{
     color:hsl(207, 44%, 49%);
 }
 
-a:focus{
+a:hover,a:focus {
     color:hsl(192, 44%, 49%)
 }
 
 p {
     text-align: capitalize;
+    color: royalblue;
+}
+
+ol{
+    list-style-type: none;
+    padding:0;
+}
+ul {
+    list-style-type: square;
+    text-align: center;
+ /*    list-style-position: inside;
+    line-height: 1.365; */
 }
