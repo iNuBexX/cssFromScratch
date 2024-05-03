@@ -9,9 +9,12 @@ input, button{
 }
 
 a:visited{
-    color:greenyellow;
+    color:hsl(207, 44%, 49%);
 }
 
+a:focus{
+    color:hsl(192, 44%, 49%)
+}
 
 p {
     text-align: capitalize;
