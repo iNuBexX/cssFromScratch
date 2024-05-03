@@ -7,3 +7,12 @@ body {
 input, button{
     font:inherit;
 }
+
+a:visited{
+    color:greenyellow;
+}
+
+
+p {
+    text-align: capitalize;
+}
