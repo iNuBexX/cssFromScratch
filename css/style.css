@@ -1,7 +1,16 @@
 body {
-    font-size: 22px;
+  font-size: 22px;
 }
 
-p{
-    color: purple;
+p {
+  color: purple;
+}
+
+.gray {
+  color: gray;
+}
+
+#second{
+  color: purple;
+  font-style: italic;
 }
