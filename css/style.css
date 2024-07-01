@@ -1,5 +1,9 @@
 body {
   font-size: 45px;
+  font-family : Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: papayawhip;
+  color: royalblue;
 }
 
 p {
