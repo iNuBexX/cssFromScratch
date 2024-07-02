@@ -1,36 +1,9 @@
-*{
-    margin: 0 ;
-    padding: 0 ;
-    box-sizing: border-box ;
-
-}
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.5;
-  background-color: papayawhip;
-  color: royalblue;
-  min-height: 100vh;
+    padding: 10%;
+    font-size:2rem;
+    color: red;
 }
 
-h2 {
-  padding: 0.5em;
-  border: 2px dashed red;
-
-}
-p {
-  color: purple;
-  font-size: 32px;
-  width: 100ch;
-}
-
-.gray {
-  color: gray;
-}
-
-.container {
-  border: 2px dashed red;
-  color: purple;
-  font-style: italic;
-  padding: 1.5em;
-  margin: 1.5em;
+input, button{
+    font:inherit;
 }
