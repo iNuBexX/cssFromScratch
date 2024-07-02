@@ -1,14 +1,24 @@
 body {
-  font-size: 45px;
+
   font-family : Arial, Helvetica, sans-serif;
   line-height: 1.5;
   background-color: papayawhip;
   color: royalblue;
+  min-height: 100vh;
 }
+header {
 
+    border: 2px dashed red;
+    width: 50%;
+}
+h2 {
+    border: 2px dashed red;
+    width: 50%;
+}
 p {
-  color: purple;
-
+    color: purple;
+    font-size: 32px;
+    width: 100ch;
 }
 
 .gray {
@@ -19,3 +29,4 @@ p {
   color: purple;
   font-style: italic;
 }
+
